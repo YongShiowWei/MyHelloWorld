@@ -4,4 +4,5 @@
     <string name="TextNumber">Roll Dice</string>
     <string name="rollDice">ROLL</string>
     <string name="playerName">Player 1</string>
+    <string name="rules">The number of dice rolled will depend on the number of quarters held:ey or other goodies used.</string>
 </resources>
