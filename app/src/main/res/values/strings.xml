@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MyHelloWorld</string>
     <string name="helloText">Hello Class</string>
-    <string name="TextNumber">Hello</string>
+    <string name="TextNumber">Roll Dice</string>
     <string name="rollDice">ROLL</string>
+    <string name="playerName">Player 1</string>
 </resources>
