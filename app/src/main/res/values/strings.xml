@@ -4,5 +4,15 @@
     <string name="TextNumber">Roll Dice</string>
     <string name="rollDice">ROLL</string>
     <string name="playerName">Player 1</string>
-    <string name="rules">The number of dice rolled will depend on the number of quarters held:ey or other goodies used.</string>
+    <string name="rules">To pass is to roll a 7 or 11 on the come out roll.
+        \n\nTo crap is to roll a 2, 3, or 12 on the come out roll.
+        \n\nThe point is any value between 4 and 10 rolled on the come out.
+        \n\nTo seven out is to roll a seven before rolling the point.
+        \n\nTo crap is to roll a 2, 3, or 12 on the come out roll.
+        \n\nThe point is any value between 4 and 10 rolled on the come out.
+        \n\nTo seven out is to roll a seven before rolling the point.
+        \n\nTo crap is to roll a 2, 3, or 12 on the come out roll.
+        \n\nThe point is any value between 4 and 10 rolled on the come out.
+        \n\nTo seven out is to roll a seven before rolling the point.</string>
+    <string name="updateBtn">Update</string>
 </resources>
