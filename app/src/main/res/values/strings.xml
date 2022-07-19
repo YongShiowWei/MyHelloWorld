@@ -14,5 +14,6 @@
         \n\nTo crap is to roll a 2, 3, or 12 on the come out roll.
         \n\nThe point is any value between 4 and 10 rolled on the come out.
         \n\nTo seven out is to roll a seven before rolling the point.</string>
-    <string name="updateBtn">Update</string>
+    <string name="updatePlayerNameTxt">Update</string>
+    <string name="editPlayerName">Type name here</string>
 </resources>
